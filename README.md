@@ -1,1 +1,1 @@
-# github-shit
+# github-boss
